@@ -15,7 +15,7 @@ FORCE_SUB_CHANNEL = int(getenv("FORCE_SUB_CHANNEL", "-1001909805668"))
 BOT_WORKERS = int(getenv("BOT_WORKERS", "5"))
 
 # --------- ʟɪɴᴋ sʜᴏʀᴛɴᴇʀ ᴄᴏɴᴠᴇʀᴛᴇʀ ---------
-URL_SHORTNER_API = getenv("URL_SHORTNER_API", "https://publicearn.com/kayyumkhan")
+URL_SHORTNER_API = getenv("URL_SHORTNER_API", "https://publicearn.com/api?api=ffe90fdeaa90e3518ad52debe75d4d493adb2b90&url=yourdestinationlink.com&alias=CustomAlias")
 URL_SHORTNER_API_KEY = getenv("URL_SHORTNER_API_KEY", "ffe90fdeaa90e3518ad52debe75d4d493adb2b90")
 
 
